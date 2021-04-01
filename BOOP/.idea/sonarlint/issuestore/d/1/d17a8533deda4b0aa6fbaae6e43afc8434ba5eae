@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô¸œûÿÿÿÿ
+s
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "minim".(¡Œƒà
+t
+java:S1488#"^Immediately return this expression instead of assigning it to the temporary variable "minim2".(äŒ–Ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«Û»ªùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í•Úæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚¯Ê¤ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û˜ô÷øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†‘äûûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ†ÅÏ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¦ÔÌ
+Z
+java:S3358"DExtract this nested ternary operation into an independent statement.(¡Œƒà
+Z
+java:S3358"DExtract this nested ternary operation into an independent statement.(¡Œƒà
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÇË×şÿÿÿÿ

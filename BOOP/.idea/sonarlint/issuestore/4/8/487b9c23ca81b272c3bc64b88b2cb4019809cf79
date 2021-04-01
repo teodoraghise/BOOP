@@ -1,0 +1,27 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì¹®È8ÍŸªÈˆ/
+{
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(êş˜šûÿÿÿÿ8±‡‹òˆ/
+J
+java:S1068	"-Remove this unused "countBook" private field.(Ò¾¨8¶Ï³Èˆ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‡–´ğˆ/
+P
+java:S14817".Remove this unused "foundBook" local variable.(êş˜šûÿÿÿÿ8±‡‹òˆ/
+]	java:S125"<This block of commented-out lines of code should be removed.(’ÁŠ´üÿÿÿÿ8€Üãğˆ/
+_
+java:S18547"=Remove this useless assignment to local variable "foundBook".(êş˜šûÿÿÿÿ8±‡‹òˆ/
+]	java:S125$"<This block of commented-out lines of code should be removed.(æù»æüÿÿÿÿ8·Ûïğˆ/
+X	java:S125"<This block of commented-out lines of code should be removed.(²Çò8¶Ï³Èˆ/
+]	java:S125J"<This block of commented-out lines of code should be removed.(‰‹ıÿÿÿÿ8’îÇˆ/
+’
+java:S13196"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰µÉŸşÿÿÿÿ8ÉïÎÇˆ/
+’
+java:S1319@"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(„»ƒÜúÿÿÿÿ8Š©ÜÇˆ/
+V
+java:S4973C"9Use the "equals" method if value comparison was intended.(«êáÏ8‡Ÿ¿Ìˆ/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8±áŸÇˆ/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»šo
+{
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(êş˜šûÿÿÿÿ8Ö†ñˆ/

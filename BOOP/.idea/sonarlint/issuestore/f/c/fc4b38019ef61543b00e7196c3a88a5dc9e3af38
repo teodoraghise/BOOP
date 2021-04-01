@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½¹¶ 
+f
+java:S1104"PMake raza a static final constant or non-public and provide accessors if needed.(‘Ú¾Æ
+o
+java:S1104"TMake diametru a static final constant or non-public and provide accessors if needed.(ÝÅ˜ˆÿÿÿÿÿ
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+k
+java:S1206)"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+‚
+java:S1845$"gRename method "diametru" to prevent any misunderstanding/clash with field "diametru" defined on line 7.(šúË™ÿÿÿÿÿ

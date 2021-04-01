@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Îÿşÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ÒîÛÖ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îúÁÊ
+E
+java:S3740"/Provide the parametrized type for this generic.(ÒîÛÖ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òÔ–ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôêï‚ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡æ•Üüÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÒîÛÖ
