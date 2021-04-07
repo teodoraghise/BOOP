@@ -17,6 +17,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\main\java\Lab4\P4\Main.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\Lab4\P4\Palindrom.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\java\Lab4\Persoana.java">
           <value>
             <Attribute>
@@ -32,6 +46,27 @@
           </value>
         </entry>
         <entry key="\src\main\java\Lab4\Student.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\Lab5\Circle.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\Lab5\Form.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\Lab5\Triangle.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
